@@ -40,3 +40,9 @@
 @import url(../blocks/intro/__lists/intro__lists.css);
 @import url(../blocks/intro/__list/_normal/intro__list_normal.css);
 /* <intro> */
+
+/* <photo-grid> */
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/_container/photo-grid_container.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+/* </photo-grid> */

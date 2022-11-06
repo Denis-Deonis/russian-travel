@@ -7,6 +7,6 @@
   padding: 0;
 }
 
-.place__paragraph:first-child {
-  padding-bottom: 26px;
+.place__paragraph:nth-child(2n) {
+  padding-top: 26px;
 }

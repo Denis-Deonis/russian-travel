@@ -1,3 +1,6 @@
 .place__website {
-  
+  max-width: 484px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
 }

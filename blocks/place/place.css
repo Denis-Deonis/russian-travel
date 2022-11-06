@@ -1,0 +1,5 @@
+.place {
+  display: grid;
+  gap: 40/48;
+  grid-template-columns: repeat(minmax(460px), minmax(484px));
+}

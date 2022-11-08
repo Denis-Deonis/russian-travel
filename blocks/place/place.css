@@ -2,4 +2,5 @@
   display: grid;
   grid-template-columns: repeat(2, minmax(320px, max-content));
   gap: 48px 40px;
+  justify-content: center;
 }

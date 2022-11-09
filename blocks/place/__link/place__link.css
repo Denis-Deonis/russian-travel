@@ -5,5 +5,11 @@
   text-decoration-line: underline;
   max-width: 456px;
   color: #fff;
-  
+  transition: opacity .3s linear;
 }
+
+.place__link:hover {
+  opacity: .8;
+  cursor: pointer;
+}
+

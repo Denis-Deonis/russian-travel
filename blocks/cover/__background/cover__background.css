@@ -1,17 +1,29 @@
 .cover__background {
   max-width: 100%;
   min-height: 740px;
-  background: 
-    linear-gradient(rgba(42, 44, 47, .3),  rgba(42, 44, 47,  .3) ), 
+  background:
+    linear-gradient(rgba(42, 44, 47, .3),  rgba(42, 44, 47,  .3) ),
     url(../../../images/cover/cover-trains.jpg);
   background-size: 100%;
 	background-repeat: no-repeat;
-	background-position: top;   
+	background-position: top;
   text-decoration: none;
   color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  transition: opacity .3s linear;
 }
 
+.cover__background:hover{
+  background:
+  linear-gradient(rgba(42, 44, 47, .8),  rgba(42, 44, 47,  .8) ),
+  url(../../../images/cover/cover-trains.jpg);
+  max-width: 100%;
+  min-height: 740px;
+  background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: top;
+  cursor: pointer;
+}

@@ -1,6 +1,6 @@
 .cover__background {
   max-width: 100%;
-  min-height: 740px;
+  min-height: 100%;
   background:
     linear-gradient(rgba(42, 44, 47, .3),  rgba(42, 44, 47,  .3) ),
     url(../../../images/cover/cover-trains.jpg);
@@ -21,7 +21,7 @@
   linear-gradient(rgba(42, 44, 47, .8),  rgba(42, 44, 47,  .8) ),
   url(../../../images/cover/cover-trains.jpg);
   max-width: 100%;
-  min-height: 740px;
+  min-height: 100%;
   background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: top;

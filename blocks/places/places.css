@@ -3,4 +3,19 @@
   flex-wrap: wrap;
   flex-direction: column;
   gap: 80px;
+  padding-top: 92px;
+}
+
+@media screen and (max-width: 1023px) {
+  .places {
+    padding-top: 88px;
+    gap: 73px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places {
+    padding-top: 54px;
+    gap: 50px;
+  }
 }

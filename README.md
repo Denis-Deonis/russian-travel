@@ -7,7 +7,7 @@
 
 ## Ссылка на сайт
 
-[Проектная работа на сайте GitHub Pages]
+[Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/russian-travel/)
 
 ## Функционал
 

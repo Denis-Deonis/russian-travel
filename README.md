@@ -2,6 +2,8 @@
 
 ## Демо сайта
 
+<img src='https://github.com/Denis-Deonis/russian-travel/blob/main/demo/russian-travel.gif?token=GHSAT0AAAAAABZNX6OVAVCWW44VNYLZAHSQY2L2AXQ' alt="анимация - демо сайта Путешествие по России" style="margin: 0 auto;">
+
 ## Описание
 [Путешествие по России](https://denis-deonis.github.io/russian-travel/) - это типовой однастраничный сайт про российский внутренний туризм, который корректно отображается и на компьютере, и на телефоне. В проектной работе была применена работа с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS. Является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries.  При вёрстке использован подход Desktop First.  
 

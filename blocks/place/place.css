@@ -24,5 +24,6 @@
   .place {
     grid-template-columns: minmax(min-content, max-content);
     grid-gap: 32px;
+    padding: 24px 0;
   }
 }

@@ -5,6 +5,13 @@
 ## Описание
 [Путешествие по России](https://denis-deonis.github.io/russian-travel/) - это типовой однастраничный сайт про российский внутренний туризм, который корректно отображается и на компьютере, и на телефоне. В проектной работе была применена работа с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS. Является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries.  При вёрстке использован подход Desktop First.  
 
+## Скриншот
+<details><summary><b>Развернуть</b></summary>
+
+[![russian-travel](https://github.com/Denis-Deonis/russian-travel/blob/main/demo/Screenshot%20%20%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8.png)](https://github.com/Denis-Deonis/russian-travel)
+
+</details>
+
 ## Ссылка на сайт
 
 [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/russian-travel/)
@@ -58,10 +65,5 @@ git clone https://github.com/Denis-Deonis/russian-travel
 * [Ссылка на макет "Путешествие по России" в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 
-## Скриншот
-<details><summary><b>Развернуть</b></summary>
 
-[![russian-travel](https://github.com/Denis-Deonis/russian-travel/blob/main/demo/Screenshot%20%20%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8.png)](https://github.com/Denis-Deonis/russian-travel)
-
-</details>
 

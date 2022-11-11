@@ -13,4 +13,5 @@
   text-decoration-skip: objects;
   -webkit-tap-highlight-color: transparent;
   font-size: 16px;
+  overflow-x:hidden; 
 }

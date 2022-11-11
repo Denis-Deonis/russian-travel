@@ -4,7 +4,7 @@
   background:
     linear-gradient(rgba(42, 44, 47, .3),  rgba(42, 44, 47,  .3) ),
     url(../../../images/cover/cover-trains.jpg);
-  background-size: 100%;
+  background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top;
   text-decoration: none;

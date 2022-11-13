@@ -5,8 +5,9 @@
   line-height: 1.75rem;
   color: #fff;
   text-decoration: none;
-  margin-bottom: 7px;
+  margin: 0 0 7px 0;
   transition: opacity .3s linear;
+  padding: 0;
 }
 
 .header__lang-link:hover{
@@ -14,7 +15,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  
+
   .header__lang-link {
       font-size: 1.125rem;
       line-height: 1.25rem;

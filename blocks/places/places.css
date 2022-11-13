@@ -9,13 +9,13 @@
 @media screen and (max-width: 1023px) {
   .places {
     padding-top: 88px;
-    gap: 73px;
+    gap: 63px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .places {
     padding-top: 54px;
-    gap: 50px;
+    gap: 59px;
   }
 }

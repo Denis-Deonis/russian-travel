@@ -9,3 +9,9 @@
     padding-top: 48px;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .content {
+    padding-left: 0;
+  }
+}

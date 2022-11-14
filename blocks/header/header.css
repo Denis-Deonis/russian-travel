@@ -1,9 +1,8 @@
 .header {
-  max-width: 1196px;
+  max-width: 1184px;
   display: flex;
   justify-content: space-between;
-  margin: 0 auto;
-  padding: 28px 0 0 0;
+  padding: 28px 48px 0 48px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -14,14 +13,14 @@
 
 @media screen and (max-width: 768px) {
   .header {
-    padding: 25px 0 0 0;
+    padding: 25px 24px 0 24px;
     max-width: 720px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .header {
-    padding: 16px 0 0 0;
+    padding: 16px 16px 0 16px;
     max-width: 288px;
   }
 }

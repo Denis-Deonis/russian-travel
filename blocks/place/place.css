@@ -9,21 +9,27 @@
 @media screen and (max-width: 1279px) {
   .place {
     grid-template-columns: minmax(min-content, 440px) minmax(min-content, 456px);
-    grid-gap: 48px 32px;
+    gap: 48px 32px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .place {
     grid-template-columns: minmax(min-content, 340px)  minmax(min-content, 352px);
-    grid-gap: 46px 32px;
+    gap: 46px 32px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .place {
     grid-template-columns: minmax(min-content, 720px);
-    grid-gap: 32px;
+    gap: 32px;
     padding: 24px 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place {
+  padding: 0;
   }
 }
